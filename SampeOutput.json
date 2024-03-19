@@ -1,0 +1,268 @@
+
+
+{
+    "status": "ok",
+    "totalResults": 610,
+    "articles": [
+        {
+          "source": {
+            "id": "cnn",
+            "name": "CNN"
+          },
+          "author": "Luke McGee",
+          "title": "As Ukraine marks two years since Russia’s invasion, Europe is facing difficult questions - CNN",
+          "description": "As the world prepares to mark the second anniversary of Vladimir Putin’s Ukraine invasion this week, Europe must ask itself some confronting questions about the war that unexpectedly erupted on its borders – and how it will approach the next 12 months.",
+          "url": "https://www.cnn.com/2024/02/22/europe/ukraine-russia-eu-anniversary-intl/index.html",
+          "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/861e58d3-c04b-4734-b977-0dcbd6927e0e.JPG?c=16x9&q=w_800,c_fill",
+          "publishedAt": "2024-02-22T10:43:00Z",
+          "content": "As the world prepares to mark the second anniversary of Vladimir Putins Ukraine invasion this week, Europe must ask itself some searching questions about the war that unexpectedly erupted on its bord… [+6148 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CNBC"
+          },
+          "author": "Arjun Kharpal",
+          "title": "Nvidia shares pop 12% in premarket trade after AI-fueled bumper earnings - CNBC",
+          "description": "Nvidia chips are used to train the huge AI models such as those developed by Microsoft and Meta.",
+          "url": "https://www.cnbc.com/2024/02/22/nvidia-shares-pop-12percent-in-premarket-trade-after-ai-fueled-bumper-earnings-.html",
+          "urlToImage": "https://image.cnbcfm.com/api/v1/image/107327179-1700830294586-107327179-1698862366973-gettyimages-1258356102-TAIWAN-COMPUTEX2023-01062023-162JPG.jpg?v=1707749631&w=1920&h=1080",
+          "publishedAt": "2024-02-22T09:05:29Z",
+          "content": "Jensen Huang, president of Nvidia, holding the Grace hopper superchip CPU used for generative AI at the Supermicro keynote presentation during Computex 2023.\r\nNvidia shares jumped more than 14% in pr… [+1504 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "CBS Sports"
+          },
+          "author": "Joel Corry",
+          "title": "Agent's Take: Dak Prescott, Jordan Love and other NFL quarterbacks who can sign a lucrative deal in 2024 - CBS Sports",
+          "description": "Seven quarterbacks who could break the bank in 2024",
+          "url": "https://www.cbssports.com/nfl/news/agents-take-dak-prescott-jordan-love-and-other-nfl-quarterbacks-who-can-sign-a-lucrative-deal-in-2024/",
+          "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/29/14bf6a73-1c53-42c8-a670-d7329d0a0151/thumbnail/1200x675/a78c4fa8ce7e7504f6fbafd7a74cb430/getty-dak-prescott-cowboys-1.jpg",
+          "publishedAt": "2024-02-22T07:16:00Z",
+          "content": "Last year was a banner one for the quarterback market. Four different quarterbacks raised the bar for NFL salaries in 2023. Jalen Hurts, Lamar Jackson and Justin Herbert each took turns atop the NFL … [+15345 chars]"
+        },
+        {
+          "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+          },
+          "author": "Landon Mion",
+          "title": "Julian Assange's US extradition hearing wraps up in London, decision not expected until at least next month - Fox News",
+          "description": "Julian Assange's hearing at the British High Court for his possible final appeal challenging his U.S. extradition has concluded, and he was absent for the second day in a row.",
+          "url": "https://www.foxnews.com/politics/julian-assanges-us-extradition-hearing-wraps-up-london-decision-not-expected-until-least-next-month",
+          "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/assanges.png",
+          "publishedAt": "2024-02-22T06:20:00Z",
+          "content": "WikiLeaks founder Julian Assange's\r\n hearing at the British High Court in London for his possible final appeal challenging his extradition to the U.S. concluded on Wednesday. The court is not expecte… [+10909 chars]"
+        },
+        {
+          "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+          },
+          "author": "Shayna Jacobs",
+          "title": "Trump lawyers seek delay in enforcement of $350 million fraud judgment - The Washington Post",
+          "description": "Trump lawyers seek delay in enforcement of a more than $350 million judgment in the New York civil fraud case.",
+          "url": "https://www.washingtonpost.com/national-security/2024/02/21/trump-civil-fraud-judgment-new-york-engoron/",
+          "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/E5HY5FWDZDS4KMHTEVYL3N522M_size-normalized.jpg&w=1440",
+          "publishedAt": "2024-02-22T05:20:00Z",
+          "content": "NEW YORK Donald Trumps attorneys Wednesday requested a month-long delay in enforcement of a civil fraud judgment of more than $350 million against the former president, saying they had concerns with … [+3455 chars]"
+        },
+        {
+          "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+          },
+          "author": "Al Jazeera",
+          "title": "Chaos erupts as UK parliament votes on Gaza ceasefire - Al Jazeera English",
+          "description": "Government and SNP condemn Speaker Lindsay Hoyle for his handling of the Gaza ceasefire debate.",
+          "url": "https://www.aljazeera.com/news/2024/2/21/uk-parliament-speaker-gives-labour-leadership-gaza-ceasefire-vote-reprieve",
+          "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-07T155432Z_1322200339_RC2PX5AUK8HK_RTRMADP_3_BRITAIN-POLITICS-PMQS-1708546951.jpg?resize=1920%2C1440",
+          "publishedAt": "2024-02-22T05:07:09Z",
+          "content": "The UKs House of Commons has descended into chaos as the government and the Scottish National Party (SNP) condemned Speaker Lindsay Hoyle for his handling of a key vote on support for a ceasefire in … [+3968 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Daily Beast"
+          },
+          "author": "William Vaillancourt",
+          "title": "James Comer Changes His Tune on Discredited Biden Probe Witness - The Daily Beast",
+          "description": "After months of hype, the House Republican now claims that the man charged with lying to the FBI actually “wasn’t an important part of this investigation.”",
+          "url": "https://www.thedailybeast.com/james-comer-changes-his-tune-on-biden-impeachment-witness-after-blown-credibility",
+          "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_355,w_631,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1708574336/Screen_Shot_2024-02-21_at_10.25.02_PM_dn6adf",
+          "publishedAt": "2024-02-22T04:58:00Z",
+          "content": "After the credibility of House Republicans much-hyped FBI informant for their impeachment of President Joe Biden fell to pieces last week, House Oversight Committee Chairman James Comer (R-KY) dared … [+2238 chars]"
+        },
+        {
+          "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+          },
+          "author": "FRANK BAJAK, DAKE KANG",
+          "title": "Chinese hacking documents offer glimpse into state surveillance - The Associated Press",
+          "description": "Chinese police are investigating an unauthorized and highly unusual online dump of documents from a private security contractor linked to China’s top policing agency and other parts of its government. It's a trove that reveals and catalogs apparent hacking ac…",
+          "url": "https://apnews.com/article/china-cybersecurity-leak-document-dump-spying-aac38c75f268b72910a94881ccbb77cb",
+          "urlToImage": "https://dims.apnews.com/dims4/default/331ccec/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fec%2Fec%2F1bd60a4b884a83faa3b9741681c8%2F87e1ff6f878742c58e935429ba8de08a",
+          "publishedAt": "2024-02-22T04:49:00Z",
+          "content": "Chinese police are investigating an unauthorized and highly unusual online dump of documents from a private security contractor linked to the nations top policing agency and other parts of its govern… [+9779 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "YouTube"
+          },
+          "author": null,
+          "title": "UPSET AT THE BUZZER 🔥 Kentucky Wildcats vs. LSU Tigers | Full Game Highlights - ESPN",
+          "description": "Watch these highlights as the unranked LSU Tigers upset the No. 17 Kentucky Wildcats at home, 75-74. The Tigers' top scorer was Tyrell Ward with 17 PTS.✔️Sub...",
+          "url": "https://www.youtube.com/watch?v=7kN7e9anneo",
+          "urlToImage": "https://i.ytimg.com/vi/7kN7e9anneo/maxresdefault.jpg",
+          "publishedAt": "2024-02-22T04:42:38Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+          },
+          "author": "Tim McNicholas, Naveen Dhaliwal, Jesse Zanger",
+          "title": "Arizona prosecutors won't agree to extradite SoHo hotel murder suspect to New York, suggest lack of trust in Manhattan DA - CBS New York",
+          "description": "A prosecutor in Arizona said she thinks \"it's safer to keep him here and keep in custody.\"",
+          "url": "https://www.cbsnews.com/newyork/news/soho-hotel-homicide-suspect-extradition/",
+          "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/02/20/22204bf9-8878-4409-9b12-156ad20ca363/thumbnail/1200x630/aa106c402f4499ba642fb9377610b164/mcnicholas-12-image.jpg?v=2a01790210e495d24a119503c08f840d",
+          "publishedAt": "2024-02-22T04:35:00Z",
+          "content": "NEW YORK - Prosecutors in Arizona say they won't agree right now to extradite the man accused of murdering a woman in SoHo because they don't trust Manhattan District Attorney Alvin Bragg. \r\nRaad Alm… [+5306 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "MLSsoccer.com"
+          },
+          "author": "mlssoccer",
+          "title": "Lionel Messi brings magic in Inter Miami's 2024 opener: \"He's motivated\" | MLSSoccer.com - MLSsoccer.com",
+          "description": "FORT LAUDERDALE, Fla. – Lionel Messi, GOAT that he is, had already nutmegged an opponent, notched an assist, evaded an injured defender with an insane flick and even chatted up Oscar-winning actor Will Smith – all before halftime of Wednesday night’s 2024 MLS…",
+          "url": "https://www.mlssoccer.com/news/lionel-messi-brings-magic-in-inter-miami-s-2024-opener-he-s-motivated",
+          "urlToImage": "https://images.mlssoccer.com/image/private/t_q-best/mls/ybzuceb2hf4tdxlnrjf1.jpg",
+          "publishedAt": "2024-02-22T04:26:23Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "BBC News"
+          },
+          "author": null,
+          "title": "Major Alabama hospital pauses IVF after court rules frozen embryos are children - BBC.com",
+          "description": "The case in Alabama stems from a lawsuit brought by three couples whose frozen embryos were lost at a clinic.",
+          "url": "https://www.bbc.com/news/world-us-canada-68366337",
+          "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/745E/production/_132709792_gettyimages-1498980269.jpg",
+          "publishedAt": "2024-02-22T04:03:30Z",
+          "content": "In vitro fertilization is a common form of fertility care in the US.\r\nA ruling from the Alabama Supreme Court that frozen embryos are considered children, and that a person could be held liable for a… [+7138 chars]"
+        },
+        {
+          "source": {
+            "id": "financial-times",
+            "name": "Financial Times"
+          },
+          "author": null,
+          "title": "Hedge funds bet against German lender over US real estate exposure - Financial Times",
+          "description": "Investors have punished Deutsche Pfandbriefbank for its exposure to the ailing American office market",
+          "url": "https://www.ft.com/content/b17d0f8e-05f0-497f-a12a-f22a9872a296",
+          "urlToImage": null,
+          "publishedAt": "2024-02-22T04:01:23Z",
+          "content": "Then $199 for 12 months. Insight and expertise in your hands with the iconic FT print edition, delivered Monday to Saturday."
+        },
+        {
+          "source": {
+            "id": "axios",
+            "name": "Axios"
+          },
+          "author": "Axios",
+          "title": "Biden considers borrowing a page from Trump on border security - Axios",
+          "description": null,
+          "url": "https://www.axios.com/2024/02/22/biden-border-executive-action-asylum",
+          "urlToImage": null,
+          "publishedAt": "2024-02-22T03:27:27Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Samsung.com"
+          },
+          "author": null,
+          "title": "New One UI 6.1 Update Brings Galaxy AI to More Galaxy Devices - Samsung US",
+          "description": "Samsung accelerates the global expansion of mobile AI by enabling users to experience Galaxy AI on previous models",
+          "url": "https://news.samsung.com/global/new-one-ui-6-1-update-brings-galaxy-ai-to-more-galaxy-devices",
+          "urlToImage": "https://img.global.news.samsung.com/global/wp-content/uploads/2024/02/One-UI-6.1-Update_Thumbnail728-final.jpg",
+          "publishedAt": "2024-02-22T03:03:08Z",
+          "content": "Samsung Electronics today announced the availability of Galaxy AI1 features on more Galaxy devices through a new One UI 6.1 update engineered to further the democratization of mobile AI. The update w… [+5167 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Entertainment Tonight"
+          },
+          "author": "Paige Gawley",
+          "title": "'Today's Savannah Guthrie Admits Dressing Rooms Need a 'Remodel' After Kelly Rowland Incident (Exclusive) - Entertainment Tonight",
+          "description": "The statement comes after some drama swirled over Rowland's dressing room on the morning show.",
+          "url": "https://www.etonline.com/interview-todays-savannah-guthrie-admits-dressing-rooms-need-a-remodel-after-kelly-rowland-incident-exclusive",
+          "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-02/guthrie.jpg?h=c673cd1c",
+          "publishedAt": "2024-02-22T02:11:00Z",
+          "content": "Savannah Guthrie knows the Today show dressing rooms could use an update. ET's Rachel Smith spoke to Guthrie at her book release party for Mostly What God Does on Wednesday, the same month that the m… [+2758 chars]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Rolling Stone"
+          },
+          "author": "Charisma Madarang, CT Jones",
+          "title": "Nonbinary Teen Nex Benedict Dies After School Fight - Rolling Stone",
+          "description": "Nonbinary teen Nex Benedict died after a school fight at Owasso High School in Oklahoma; Police say their death was unrelated to the altercation.",
+          "url": "http://www.rollingstone.com/culture/culture-news/nex-benedict-died-school-fight-teen-lgbtq-1234973185/",
+          "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/02/nex-benedict-Enhanced.jpg?w=1600&h=900&crop=1",
+          "publishedAt": "2024-02-22T02:03:10Z",
+          "content": "On Feb. 7, Nex Benedict was involved in a fight at Owasso Public High School in Oklahoma. The 16-year-old, who identified as nonbinary, was rushed to a hospital a day later and died.\r\nRelatives of th… [+4131 chars]"
+        },
+        {
+          "source": {
+            "id": "reuters",
+            "name": "Reuters"
+          },
+          "author": "Reuters.com",
+          "title": "Exclusive: Reddit in AI content licensing deal with Google - Reuters.com",
+          "description": null,
+          "url": "https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/",
+          "urlToImage": null,
+          "publishedAt": "2024-02-22T01:40:49Z",
+          "content": null
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "[Removed]"
+          },
+          "author": null,
+          "title": "[Removed]",
+          "description": "[Removed]",
+          "url": "https://removed.com",
+          "urlToImage": null,
+          "publishedAt": "1970-01-01T00:00:00Z",
+          "content": "[Removed]"
+        },
+        {
+          "source": {
+            "id": null,
+            "name": "Fox Business"
+          },
+          "author": "Aislinn Murphy",
+          "title": "Apple targeting sports fans with new app - Fox Business",
+          "description": "Apple is targeting sports enthusiasts with its latest app, Apple Sports. The tech giant built the app to provide real-time scores and other data for teams competing in sports leagues.",
+          "url": "https://www.foxbusiness.com/technology/apple-targeting-sports-fans-new-app",
+          "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/05/0/0/APPLE.jpg?ve=1&tl=1",
+          "publishedAt": "2024-02-22T00:02:00Z",
+          "content": "Apple is targeting sports enthusiasts with its latest app.\r\nThe new Apple Sports app aims to provide users with scores and other data for teams competing in multiple leagues in real-time. \r\nApple Spo… [+2317 chars]"
+        }
+      ]
+}
